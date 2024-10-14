@@ -1,0 +1,40 @@
+/* 전체 페이지의 기본 스타일 설정 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* 헤더 스타일 */
+  header {
+    background-color: #4CAF50;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  /* 네비게이션 메뉴 스타일 */
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  /* 섹션 스타일 */
+  section {
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  /* 푸터 스타일 */
+  footer {
+    background-color: #4CAF50;
+    text-align: center;
+    padding: 10px;
+    color: white;
+  }
+  
